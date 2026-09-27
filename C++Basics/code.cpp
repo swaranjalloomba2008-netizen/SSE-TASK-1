@@ -99,7 +99,7 @@ WE CAN ALSO PRINT DECIMAL NO. BY USING TYPECASTING
 // cout<< (b1>b2) << endl;
 // cout<< (b1<=b2) << endl;
 // cout<< (b1>=b2) << endl;
-// cout <<(b1!=b2)<< endl;
+// cout <<(b1!=b2)<< endl;  
 
 
 

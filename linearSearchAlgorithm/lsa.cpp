@@ -21,6 +21,6 @@ cout<<endl;
 cout<<"INDEX OF THE GIVEN TARGET IS : "<<linearSearch(arr ,size,90);
 return 0;
 }
-
+   
 
 

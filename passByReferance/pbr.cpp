@@ -18,10 +18,6 @@ void swap (int &x , int &y){      //& just infornt of x,y signifies that we are 
 
 }
 
-
-
-
-
 int main(){
 int arr[] ={1,2,3};
 
@@ -42,14 +38,5 @@ cout << endl;
       swap(a,b);
 
       cout << a<< " " <<b<<endl;
-
-
-
-
-
-
-
-
-
   return 0;
   }

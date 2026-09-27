@@ -29,7 +29,7 @@ cout<< marks1 [4]<< endl;
 
 // ABOVE WAY IS VERY BORING TO PRINT ELEMENTS ONE BY ONE FROM THE ARRAY.
 
-cout<< endl ;
+cout<< endl ;   
 
 int marks11 [5] = {12,232,42,23,34};
 for(int i=0 ; i<5; i++){
