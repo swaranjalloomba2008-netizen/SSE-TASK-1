@@ -193,18 +193,18 @@ int main(){
 //     cout<<endl;}
 
 
-//EXAMPLE 21;
-// int n=4;
-// for (int i=0;i<n;i++){
-//     for(int j=0;j<(n-i-1);j++){
-//     cout<<" ";}
-// for(int k=1;k<=i+1;k++){
-//     cout<<k;}
-//     for (int p=i;p>0;p--){
-//         cout<<p;}
-//    for(int m=0;m<(n-i-1);m++){
-//     cout<<" ";}
-//     cout<<endl;}
+// EXAMPLE 21;
+int n=4;
+for (int i=0;i<n;i++){
+    for(int j=0;j<(n-i-1);j++){
+    cout<<" ";}
+for(int k=1;k<=i+1;k++){
+    cout<<k;}
+    for (int p=i;p>0;p--){
+        cout<<p;}
+   for(int m=0;m<(n-i-1);m++){
+    cout<<" ";}
+    cout<<endl;}
 
 
 //EXAMPLE 22;
